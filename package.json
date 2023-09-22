@@ -1,0 +1,12 @@
+{
+  "name": "@automata-network/contracts",
+  "description": "This repo serves as a central location for all contracts that we have released to the public.",
+  "version": "0.1.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/automata-network/automata-contracts.git"
+  },
+  "files": [
+    "**/*.sol"
+  ]
+}
